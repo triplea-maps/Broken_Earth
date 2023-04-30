@@ -1,0 +1,7 @@
+Britain  (865,293)
+South africa  (1257,1571)
+Eastern USA  (154,478)
+Australia  (2720,1644)
+Russia  (1700,349)
+Germany  (1047,397)
+India  (1878,862)

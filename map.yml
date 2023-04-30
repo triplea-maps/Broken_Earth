@@ -1,0 +1,5 @@
+map_name: Broken_Earth
+games:
+- game_name: Broken Earth
+  file_name: Broken Earth.xml
+version: 0
